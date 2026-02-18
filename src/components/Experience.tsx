@@ -36,7 +36,7 @@ const experiences = [
   },
   {
     id: 4,
-    role: "Developer",
+    role: "Developer (Part-time)",
     company: "CodingCatalysts",
     duration: "Mar 2022 - Present",
     description: "Built responsive web apps, ensured cross-browser compatibility, led code reviews.",
